@@ -1,0 +1,12 @@
+Initialize Git 			 	git init
+Show the working tree status 	 	git status
+Get everything ready to commit 	 	git add .
+Get custom file ready to commit  	git add index.html
+Commit changes 			 	git commit -m "Message"
+Remove files from Git 		 	git rm index.html
+Create branch 			 	git branch branchname
+Change to branch 		 	git checkout branchname
+True merge (fast forward) 	 	git merge branchname
+Show commits 			 	git log
+Compare modified files 		 	git diff
+Create branch 				git branch branchname
